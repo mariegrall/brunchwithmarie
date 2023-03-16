@@ -1,0 +1,16 @@
+.btn-blue {
+color: white;
+background-color: lightpink;
+font-weight: bold;
+border: 1px solid lightpink;
+border-radius: 6px;
+padding: 16px;
+}
+
+.btn-blue:hover {
+	background-color: white;
+	color: lightpink;
+	transition: 1s;
+	text-align: center;
+
+}

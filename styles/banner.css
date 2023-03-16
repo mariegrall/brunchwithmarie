@@ -1,0 +1,14 @@
+#banner {
+	height: 75vh;
+	background-image: url("../images/first.jpg");
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	text-shadow: 3px 2px 2px black;
+	font-size: xx-large;
+	text-align: center;
+}
